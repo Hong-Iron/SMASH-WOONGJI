@@ -1,0 +1,34 @@
+{
+  "code": "WOONGJI",
+  "title": "SMASH WOONGJI",
+  "school": "웅지세무대",
+  "fullName": "웅지세무대학교",
+  "campusName": "웅지세무대학교",
+  "tagline": "웅지세무대를 부셔 (시험기간 스트레스 해소)",
+  "description": "웅지세무대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 웅지세무대학교 3D 화면과 SMASH WOONGJI 제목",
+  "url": "https://hong-iron.github.io/SMASH-WOONGJI/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 1025150443
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.8176443,
+        126.7360552
+      ],
+      "n": "C동(기숙사동)",
+      "why": "같은 건물 겹침 — 브이월드의 C동(기숙사동) 기록은 바로 옆 5번 기숙사 건물과 모양·면적(약 976㎡)이 똑같은 윤곽을 비스듬히 돌려 약 19m 옮겨 놓은 것이라, 같은 건물을 한 번 더 그린 것입니다."
+    }
+  ]
+}
