@@ -1,0 +1,34 @@
+{
+ "region": "경기 파주시 탄현면",
+ "nameEn": "Woongji Accounting & Tax College",
+ "added": "2026-11-01T02:27",
+ "rank": 318,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DGU-BIOMEDI",
+   "campus": "동국대학교 바이오메디캠퍼스",
+   "km": 16.7
+  },
+  {
+   "code": "JOONGBU-GOYANG",
+   "campus": "중부대학교 고양캠퍼스",
+   "km": 17.9
+  },
+  {
+   "code": "KIMPO",
+   "campus": "김포대학교 월곶캠퍼스",
+   "km": 19.4
+  },
+  {
+   "code": "NONGHYUP",
+   "campus": "농협대학교",
+   "km": 21.4
+  },
+  {
+   "code": "KYUNGMIN",
+   "campus": "경민대학교",
+   "km": 26.5
+  }
+ ]
+}
